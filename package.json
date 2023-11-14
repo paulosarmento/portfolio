@@ -23,7 +23,7 @@
     "eslint": "8.37.0",
     "eslint-config-next": "13.3.0",
     "framer-motion": "^10.11.2",
-    "graphql": "^16.8.0",
+    "graphql": "^16.8.1",
     "libphonenumber-js": "^1.10.38",
     "next": "^13.4.2",
     "postcss": "8.4.21",
